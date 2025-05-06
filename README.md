@@ -38,7 +38,7 @@ A full-stack e-commerce application with product catalog, shopping cart, order m
 
 1. Clone the repository
 ```
-git clone <repository-url>
+git clone https://github.com/billa-bharath/My-FullStack-Project.git
 cd My-FullStack-Project
 ```
 
